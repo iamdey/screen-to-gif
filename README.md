@@ -14,6 +14,8 @@ CTRL-C to stop recording
 ...
 ```
 
+![screen-to-gif](doc/I-can-has-recursive.gif)
+
 ## Requirements:
 
 _(in order of appearance)_
