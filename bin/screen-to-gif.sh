@@ -27,3 +27,5 @@ recordmydesktop --windowid=$windowId --no-sound -o $OGV_FILE
 
 echo -e "\e[32mStart encoding\e[0m"
 ogv-to-gif.sh $OGV_FILE $outputFile
+
+rm $OGV_FILE
